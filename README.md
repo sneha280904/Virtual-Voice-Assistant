@@ -36,7 +36,7 @@ Welcome to **Voca-Bot**, your AI-powered virtual voice assistant designed to mak
 
 4. Run the voice assistant:
     ```
-    python voca_bot.py
+    python app.py
     ```
 
 ## Usage 📈
