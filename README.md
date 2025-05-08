@@ -1,5 +1,7 @@
 # Voca-Bot : Virtual Voice Assistant 🎤🤖
 
+Note: The source code for this project has been made private intentionally.
+
 Welcome to **Voca-Bot**, your AI-powered virtual voice assistant designed to make your daily tasks easier and more efficient! Whether you're managing your schedule, setting reminders, or simply asking questions, Voca-Bot is here to assist you with a wide range of tasks—just by using your voice! 🎧💬
 
 ## Features ✨
